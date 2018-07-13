@@ -27,7 +27,7 @@ var Data = exports.Data = {
     STATUS_CODE: 'statusCode',
     STATUS_CODES: {
         ERROR: 'ERROR',
-        OFFLINE: 'OFLLINE',
+        OFFLINE: 'OFFLINE',
         OK: 'OK'
     },
     TO: 'to',
